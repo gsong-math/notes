@@ -10,13 +10,19 @@
     <link>https://gsong-math.github.io/notes/Publish/python</link>
     <guid>https://gsong-math.github.io/notes/Publish/python</guid>
     <description><![CDATA[ ## virtual environments check what version of Python: which python create your environment, type conda create -n &lt;yourenvironmentname&gt; python=3.7 anaconda (or miniconda) see a list of all of your conda environments conda info -e activate your Conda environments conda activate &lt;yourenvironme... ]]></description>
-    <pubDate>Wed, 08 Apr 2026 16:11:31 GMT</pubDate>
+    <pubDate>Wed, 08 Apr 2026 16:16:36 GMT</pubDate>
   </item><item>
     <title>AI-Skills</title>
     <link>https://gsong-math.github.io/notes/Publish/AI-Skills</link>
     <guid>https://gsong-math.github.io/notes/Publish/AI-Skills</guid>
     <description><![CDATA[ Manim Math Visualizer Manim Video Creator Manim Skills Full Stack Minimax Skills RevealJS A complete AI agency Superpowers Frontend Design Generator Prompt Master Skill Creator Brainstorming Brainstorming Image Image Enhancer Teaching Math Teacher Reading Teacher Research research-plugins Notebooklm... ]]></description>
-    <pubDate>Wed, 08 Apr 2026 16:11:31 GMT</pubDate>
+    <pubDate>Wed, 08 Apr 2026 16:16:36 GMT</pubDate>
+  </item><item>
+    <title>Tech Notes</title>
+    <link>https://gsong-math.github.io/notes/</link>
+    <guid>https://gsong-math.github.io/notes/</guid>
+    <description><![CDATA[ A collection of technical notes and learnings ]]></description>
+    <pubDate>Wed, 08 Apr 2026 16:14:15 GMT</pubDate>
   </item><item>
     <title>Tech Notes</title>
     <link>https://gsong-math.github.io/notes/Publish/</link>
