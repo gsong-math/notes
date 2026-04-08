@@ -5,6 +5,36 @@
       <link>https://gsong-math.github.io/notes</link>
       <description>Last 10 notes on Tech Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      
+      <item>
+    <title>python</title>
+    <link>https://gsong-math.github.io/notes/python</link>
+    <guid>https://gsong-math.github.io/notes/python</guid>
+    <description><![CDATA[ ## virtual environments check what version of Python: which python create your environment, type conda create -n &lt;yourenvironmentname&gt; python=3.7 anaconda (or miniconda) see a list of all of your conda environments conda info -e activate your Conda environments conda activate &lt;yourenvironme... ]]></description>
+    <pubDate>Wed, 08 Apr 2026 14:37:51 GMT</pubDate>
+  </item><item>
+    <title>AI-Skills</title>
+    <link>https://gsong-math.github.io/notes/AI-Skills</link>
+    <guid>https://gsong-math.github.io/notes/AI-Skills</guid>
+    <description><![CDATA[ Manim Math Visualizer Manim Video Creator Manim Skills Full Stack Minimax Skills RevealJS A complete AI agency Superpowers Frontend Design Generator Prompt Master Skill Creator Brainstorming Brainstorming Image Image Enhancer Teaching Math Teacher Reading Teacher Research research-plugins Notebooklm... ]]></description>
+    <pubDate>Wed, 08 Apr 2026 14:37:51 GMT</pubDate>
+  </item><item>
+    <title>Tech Notes</title>
+    <link>https://gsong-math.github.io/notes/</link>
+    <guid>https://gsong-math.github.io/notes/</guid>
+    <description><![CDATA[ A collection of technical notes and learnings ]]></description>
+    <pubDate>Tue, 07 Apr 2026 21:48:08 GMT</pubDate>
+  </item><item>
+    <title>Test Note</title>
+    <link>https://gsong-math.github.io/notes/test-note</link>
+    <guid>https://gsong-math.github.io/notes/test-note</guid>
+    <description><![CDATA[ A simple test note for Quartz publishing ]]></description>
+    <pubDate>Tue, 07 Apr 2026 21:48:08 GMT</pubDate>
+  </item><item>
+    <title>OpenClaw</title>
+    <link>https://gsong-math.github.io/notes/OpenClaw</link>
+    <guid>https://gsong-math.github.io/notes/OpenClaw</guid>
+    <description><![CDATA[ OpenClaw OpenClaw — AI assistant that runs locally and connects to various messaging platforms. ]]></description>
+    <pubDate>Fri, 20 Mar 2026 20:06:00 GMT</pubDate>
+  </item>
     </channel>
   </rss>
