@@ -6,17 +6,23 @@
       <description>Last 10 notes on Guohui&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>vscode</title>
-    <link>https://gsong-math.github.io/notes/Dev/vscode</link>
-    <guid>https://gsong-math.github.io/notes/Dev/vscode</guid>
-    <description><![CDATA[ Use VS Code for Latex Download and install Tex Live Install it from tug.org/texlive/windows.html by clicking install-tl-windows.exe. ]]></description>
-    <pubDate>Wed, 08 Apr 2026 23:04:38 GMT</pubDate>
+    <title>VS-Code</title>
+    <link>https://gsong-math.github.io/notes/Installation/VS-Code</link>
+    <guid>https://gsong-math.github.io/notes/Installation/VS-Code</guid>
+    <description><![CDATA[ Introduction Visual Studio Code (VS Code) is a free, powerful, cross-platform code editor. ]]></description>
+    <pubDate>Thu, 09 Apr 2026 04:29:28 GMT</pubDate>
   </item><item>
     <title>LaTex</title>
     <link>https://gsong-math.github.io/notes/Installation/LaTex</link>
     <guid>https://gsong-math.github.io/notes/Installation/LaTex</guid>
-    <description><![CDATA[ Introduction LaTex is a popular (dominant) typing system for Math. It has editor and compiler. We will install. ]]></description>
-    <pubDate>Wed, 08 Apr 2026 22:58:21 GMT</pubDate>
+    <description><![CDATA[ Introduction LaTeX (pronounced “LAH-tekh” or “LAY-tekh”) is a typesetting system widely used in academia, especially in mathematics, physics, and computer science. ]]></description>
+    <pubDate>Thu, 09 Apr 2026 04:29:28 GMT</pubDate>
+  </item><item>
+    <title>vscode</title>
+    <link>https://gsong-math.github.io/notes/Dev/vscode</link>
+    <guid>https://gsong-math.github.io/notes/Dev/vscode</guid>
+    <description><![CDATA[ Use VS Code for Latex Download and install Tex Live Install it from tug.org/texlive/windows.html by clicking install-tl-windows.exe. ]]></description>
+    <pubDate>Thu, 09 Apr 2026 04:29:27 GMT</pubDate>
   </item><item>
     <title>Guohui&#039;s Notes</title>
     <link>https://gsong-math.github.io/notes/</link>
