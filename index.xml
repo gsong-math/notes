@@ -10,25 +10,49 @@
     <link>https://gsong-math.github.io/notes/</link>
     <guid>https://gsong-math.github.io/notes/</guid>
     <description><![CDATA[ A collection of technical notes and learnings ]]></description>
-    <pubDate>Thu, 09 Apr 2026 19:21:34 GMT</pubDate>
+    <pubDate>Sun, 12 Apr 2026 21:34:39 GMT</pubDate>
   </item><item>
-    <title>VS-Code</title>
-    <link>https://gsong-math.github.io/notes/Installation/VS-Code</link>
-    <guid>https://gsong-math.github.io/notes/Installation/VS-Code</guid>
+    <title>Zotero</title>
+    <link>https://gsong-math.github.io/notes/Tools/Zotero</link>
+    <guid>https://gsong-math.github.io/notes/Tools/Zotero</guid>
+    <description><![CDATA[ Zotero is a free reference manager that helps you collect, organize, cite, and share research sources. ]]></description>
+    <pubDate>Sun, 12 Apr 2026 21:34:39 GMT</pubDate>
+  </item><item>
+    <title>VS Code</title>
+    <link>https://gsong-math.github.io/notes/Tools/VS-Code</link>
+    <guid>https://gsong-math.github.io/notes/Tools/VS-Code</guid>
     <description><![CDATA[ Introduction Visual Studio Code (VS Code) is a free, powerful, cross-platform code editor. ]]></description>
-    <pubDate>Thu, 09 Apr 2026 19:21:34 GMT</pubDate>
+    <pubDate>Sun, 12 Apr 2026 21:34:39 GMT</pubDate>
   </item><item>
-    <title>LaTex</title>
-    <link>https://gsong-math.github.io/notes/Installation/LaTex</link>
-    <guid>https://gsong-math.github.io/notes/Installation/LaTex</guid>
-    <description><![CDATA[ Introduction LaTeX (pronounced “LAH-tekh” or “LAY-tekh”) is a typesetting system widely used in academia, especially in mathematics, physics, and computer science. ]]></description>
-    <pubDate>Thu, 09 Apr 2026 19:21:34 GMT</pubDate>
+    <title>Obsidian</title>
+    <link>https://gsong-math.github.io/notes/Tools/Obsidian</link>
+    <guid>https://gsong-math.github.io/notes/Tools/Obsidian</guid>
+    <description><![CDATA[ Tips and tricks for using the Obsidian editor effectively ]]></description>
+    <pubDate>Sun, 12 Apr 2026 21:34:39 GMT</pubDate>
   </item><item>
     <title>Markdown</title>
-    <link>https://gsong-math.github.io/notes/Usage/Markdown</link>
-    <guid>https://gsong-math.github.io/notes/Usage/Markdown</guid>
+    <link>https://gsong-math.github.io/notes/Tools/Markdown</link>
+    <guid>https://gsong-math.github.io/notes/Tools/Markdown</guid>
     <description><![CDATA[ Introduction Markdown is a lightweight markup language that uses plain text formatting syntax. ]]></description>
-    <pubDate>Thu, 09 Apr 2026 13:25:43 GMT</pubDate>
+    <pubDate>Sun, 12 Apr 2026 21:34:39 GMT</pubDate>
+  </item><item>
+    <title>LaTeX</title>
+    <link>https://gsong-math.github.io/notes/Tools/LaTeX</link>
+    <guid>https://gsong-math.github.io/notes/Tools/LaTeX</guid>
+    <description><![CDATA[ Introduction LaTeX (pronounced “LAH-tekh” or “LAY-tekh”) is a typesetting system widely used in academia, especially in mathematics, physics, and computer science. ]]></description>
+    <pubDate>Sun, 12 Apr 2026 21:34:39 GMT</pubDate>
+  </item><item>
+    <title>GitHub</title>
+    <link>https://gsong-math.github.io/notes/Tools/GitHub</link>
+    <guid>https://gsong-math.github.io/notes/Tools/GitHub</guid>
+    <description><![CDATA[ Using GitHub from terminal and VSCode ]]></description>
+    <pubDate>Sun, 12 Apr 2026 21:34:39 GMT</pubDate>
+  </item><item>
+    <title>Ollama</title>
+    <link>https://gsong-math.github.io/notes/Tools/Ollama</link>
+    <guid>https://gsong-math.github.io/notes/Tools/Ollama</guid>
+    <description><![CDATA[ Ollama is a tool for running large language models (LLMs) locally on your machine. ]]></description>
+    <pubDate>Sun, 12 Apr 2026 17:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
